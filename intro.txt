@@ -2,3 +2,4 @@ gitの練習
 ステージングエリアに移動
 git add
 git commit
+git remove
